@@ -18,37 +18,39 @@ Here are some ideas to get you started:
 **Nice to meet you! My name's Ishaan (aka 5h3r10k).** 
 
 <table width = "100%" border = "1">
-  <tr>
-    <td>
-      <b>Areas of Interest</b><br><br>
-      - 💻 Computer Science<br>
-      - :electron: Electronics<br>
-      - 🧰 Engineering<br>
-    </td>
-    <td>
-      <b>Skills (of various levels)</b><br><br>
-      - HTML<br>
-      - CSS<br>
-      - JS<br>
-      - Python<br>
-      - Java<br>
-      - SQL<br>
-      - Arduino<br>
-    </td>
-    <td>
-      <b>Fun</b><br><br>
-      - 🎧 I 🫀 🎵 !<br>
-      - Minecraft<br>
-      - Call Of Duty<br>
-      - Virtual Reality<br>
-    </td>
+  
+
+    <tr>
+      <td>Areas of Interest</td>
+      <td>Skills (of Various Levels)</td>
+      <td>Fun</td>
+    </tr>
+
+
+
+    <tr>
+      <td>
+        - 💻 Computer Science<br>
+        - :electron: Electronics<br>
+        - 🧰 Engineering<br>
+      </td>
+      
+      <td>
+        - HTML<br>
+        - CSS<br>
+        - JS<br>
+        - Python<br>
+        - Java<br>
+        - SQL<br>
+        - Arduino<br>
+      </td>
+      
+      <td>
+        - 🎧 I 🫀 🎵 !<br>
+        - Minecraft<br>
+        - Call Of Duty<br>
+        - Virtual Reality<br>
+      </td>
   </tr>
+
 </table>
-
-
-
-
-
-
-
-
