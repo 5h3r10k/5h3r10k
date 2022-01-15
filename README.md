@@ -48,4 +48,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<br>
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5h3r10k&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=5h3r10k&show_icons=true&hide_title=true&count_private=true&theme=chartreuse-dark)
