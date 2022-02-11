@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Nice to meet you! My name's Ishaan (aka 5h3r10k).** 
+**Nice to meet you!** 
 
 
 <table>
