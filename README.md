@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 <div id = 'greeting' align='center'>
 <strong><i>Nice to meet you!</i></strong>
 <br><br>
-<a href ="https://www.instagram.com/5h3r10k/">
-    <img alt = "Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href ="https://www.linkedin.com/in/ishaan-variava">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
