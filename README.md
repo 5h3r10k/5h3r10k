@@ -72,7 +72,4 @@ Here are some ideas to get you started:
     <br>
     <br>
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=5h3r10k&count_private=true&show_icons=true&bg_color=000&text_color=c2ced2&hide_border=true&icon_color=82F&layout=compact&langs_count=10">
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=5h3r10k&count_private=true&show_icons=true&bg_color=000&text_color=AAA&hide_border=true&icon_color=82F&custom_title=Top%20Languages">
 </div>
