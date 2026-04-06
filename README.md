@@ -23,6 +23,17 @@ A Google Chrome extension that allows users to block AI overviews on Google sear
 A fully localized RAG-based solution for querying and interpreting sensitive documents in a chatbot environment.<br>
 [GitHub](https://github.com/5h3r10k/LocalWiz)
 
+**Ardu-RC**
+<br>
+An Arduino-based Remote Control car, repurposing an old RC car chassis.
+<br>
+[GitHub](https://github.com/5h3r10k/Ardu-RC)
+
+
+
+
+
+
 ## Curiosity Experiments:
 [Monopoly HeatMap](https://5h3r10k.github.io/xplors/MonopolyHeatmap/):
 I was curious if there were more frequently landed on spaces in the game of Monopoly. This heatmap does not take into account the Jail, Chance, or Community Chest logic.
