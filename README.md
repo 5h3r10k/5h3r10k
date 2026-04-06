@@ -1,11 +1,38 @@
-<div id = 'greeting' align='center'>
-<strong>Nice to meet you!</strong>
-</div>
+**Nice to meet you!**
 
-<br><br>
+I'm a hobby developer who loves to:
+- Experiment with new technologies
+- Write code to address daily curiosities
+- Contribute to open-source projects
+- Learn by doing all of the above!
 
-<div id="stats" align='center'>
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=5h3r10k&count_private=true&show_icons=true&bg_color=000&text_color=c2ced2&hide_border=true&icon_color=82F&layout=compact&langs_count=10"> -->
 
-</div>
+
+## Completed Projects:
+
+**unAI**
+<br>
+A Google Chrome extension that allows users to block AI overviews on Google search results.
+<br>
+[GitHub](https://github.com/5h3r10k/unAI) | 
+[Chrome Web Store](https://chromewebstore.google.com/detail/unai-hide-google-ai-overv/cdkmbpbacbebkbdgmikbmfjfhepmkhmd)
+
+**LocalWiz**
+<br>
+A fully localized RAG-based solution for querying and interpreting sensitive documents in a chatbot environment.<br>
+[GitHub](https://github.com/5h3r10k/LocalWiz)
+
+
+
+
+## Ongoing Projects:
+I am a community contributor to the following open-source projects:
+
+[LawnIcons](https://github.com/LawnchairLauncher/lawnicons)
+<br>
+Themed icon pack for Android launchers, with a focus on Lawnchair Launcher.
+
+[Lawnchair Launcher](https://github.com/LawnchairLauncher/lawnchair)
+<br>
+An open-source Android launcher that offers a customizable and user-friendly experience, inspired by the Pixel Launcher.
