@@ -15,8 +15,8 @@ I'm a hobby developer who loves to:
 <br>
 A Google Chrome extension that allows users to block AI overviews on Google search results.
 <br>
-[GitHub](https://github.com/5h3r10k/unAI) | 
-[Chrome Web Store](https://chromewebstore.google.com/detail/unai-hide-google-ai-overv/cdkmbpbacbebkbdgmikbmfjfhepmkhmd)
+[Chrome Web Store](https://chromewebstore.google.com/detail/unai-hide-google-ai-overv/cdkmbpbacbebkbdgmikbmfjfhepmkhmd) | [GitHub](https://github.com/5h3r10k/unAI)
+
 
 **LocalWiz**
 <br>
